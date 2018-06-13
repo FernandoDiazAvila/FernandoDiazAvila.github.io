@@ -1,0 +1,42 @@
+	body{
+		background-color:navy;
+	}
+
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: lightgrey;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: #RRGGBB;
+}
+
+a:link {
+    color: magenta;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: magenta;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: cyan;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}

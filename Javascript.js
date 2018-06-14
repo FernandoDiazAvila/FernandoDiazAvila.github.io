@@ -1,0 +1,1 @@
+window.alert("Dont_Do_It_You_Will_Lose_To_This_Guy_He_Is_A_Prestige_Master");
